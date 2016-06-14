@@ -11,7 +11,7 @@ express(will be soon removed)<br/>
 Create a file named "credentials.js" in the bot's folder, then add two lines:
 ```javascript
 exports.botToken = "YOUR_TOKEN_HERE";
-exports.botToken = "YOUR_BOT_ADD_LINK";
+exports.botAddLink = "YOUR_BOT_ADD_LINK";
 ```
 
 Then do 
