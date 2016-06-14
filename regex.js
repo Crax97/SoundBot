@@ -1,0 +1,1 @@
+exports.audio = /\S*(mp3|ogg|wav)\/?/;

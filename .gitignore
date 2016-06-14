@@ -3,6 +3,13 @@ logs
 *.log
 npm-debug.log*
 
+# Stuff
+*.mp3
+*.wav
+*.ogg
+credentials.js
+.c9
+
 # Runtime data
 pids
 *.pid
