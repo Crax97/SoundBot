@@ -280,9 +280,9 @@ actions.push(
         
             var help = "SoundBot\n"
              +"Type:\n"+
-             "/add fileUrl fileName to add a new sound\n"+
-             "/play fileName to play a sound (You must be connected to a server and in a voice channel)\n"+
-             "/list to list all your sounds\n"+
+             "!add fileUrl fileName to add a new sound\n"+
+             "!play fileName to play a sound (You must be connected to a server and in a voice channel)\n"+
+             "!list to list all your sounds\n"+
              "Developed by @Crax#6710 ";
              
         
@@ -349,7 +349,7 @@ actions.push(
 				bot.sendMessage(
 					{
 					to:channelID,
-					message: "Which sound should i delete? use /list to list all your sounds"
+					message: "Which sound should i delete? use !list to list all your sounds"
 					});
 						
 				}

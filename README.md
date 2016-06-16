@@ -16,7 +16,7 @@ exports.botAddLink = "YOUR_BOT_ADD_LINK";
 
 Then do 
 ```bash
-node app.js
+node bot.js
 ```
 
 Remember that each user has its own sounds
